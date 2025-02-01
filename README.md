@@ -1,7 +1,7 @@
 # Reducing Food Waste for Sustainable Development  
 
 ## Project Overview 
-This project leverages data analytics to address the critical issue of food waste, aligning with the United Nations' **Sustainable Development Goals (SDGs):  
+This project leverages data analytics to address the critical issue of food waste, aligning with the United Nations Sustainable Development Goals (SDGs):  
 - SDG 2: Zero Hunger  
 - SDG 12: Responsible Consumption and Production
 
