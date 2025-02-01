@@ -47,8 +47,5 @@ Through data-driven insights, the project aims to identify trends, patterns, and
 ## Contributing
 Contributions are welcome! Feel free to fork the repository and create pull requests to improve this project.  
 
-## License
-This project is licensed under the [MIT License](LICENSE).  
-
 ## Acknowledgments  
 - Inspired by the global need for sustainability and food security.  
